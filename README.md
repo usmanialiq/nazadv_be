@@ -41,7 +41,7 @@ $ docker run --name mysql-container -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -d 
 
 ```bash
 # development
-$ npm run start
+$ npm run dev
 
 # watch mode
 $ npm run start:dev
